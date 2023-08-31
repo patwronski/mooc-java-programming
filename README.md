@@ -6,9 +6,9 @@ More details can be found here: https://java-programming.mooc.fi/
 ___
 ![certificate-java-programming-i](https://github.com/wronskipatryk/java-programming-exercises/assets/56131806/f7f4af46-2a51-4d71-8353-e3997e71a891)
 # Example exercises
-![To-Do Console App with H2 Database Engine](https://github.com/wronskipatryk/java-programming-exercises/tree/main/mooc-java-programming-ii/part14-Part14_10.Database/src/main/java/application)
-![Ship vs Asteroids Desktop Game using JavaFX](https://github.com/wronskipatryk/java-programming-exercises/tree/main/mooc-java-programming-ii/part14-Part14_09.Asteroids/src/main/java/asteroids)
-![Employee Manager with Enum and Iterator implemetation](https://github.com/wronskipatryk/java-programming-exercises/blob/main/mooc-java-programming-ii/part10-Part10_16.EnumAndIterator/src/main/java/Employees.java)
+[To-Do Console App with H2 Database Engine](https://github.com/wronskipatryk/java-programming-exercises/tree/main/mooc-java-programming-ii/part14-Part14_10.Database/src/main/java/application)  
+[Ship vs Asteroids Desktop Game using JavaFX](https://github.com/wronskipatryk/java-programming-exercises/tree/main/mooc-java-programming-ii/part14-Part14_09.Asteroids/src/main/java/asteroids)  
+[Employee Manager with Enum and Iterator implemetation](https://github.com/wronskipatryk/java-programming-exercises/blob/main/mooc-java-programming-ii/part10-Part10_16.EnumAndIterator/src/main/java/Employees.java)  
 # Part II - Key values
 I'm able to create a hash map and I can add information to it.  
 I'm able to fetch information from a hash map and I know what happens if the information is not found.  
