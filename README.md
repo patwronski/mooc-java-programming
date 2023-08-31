@@ -1,5 +1,5 @@
 # java-programming-exercises
-Presentation of done exercises for University of Helsinki's online course focused on Java Programming.  
+Presentation of 228 done exercises for University of Helsinki's online course focused on Java Programming.  
 More details can be found here: https://java-programming.mooc.fi/
 # Certificates :
 ![certificate-java-programming-ii](https://github.com/wronskipatryk/java-programming-exercises/assets/56131806/c569df72-1928-4500-98d6-9d243814ae09)
