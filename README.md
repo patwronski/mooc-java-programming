@@ -1,11 +1,9 @@
 # java-programming-exercises
-Presentation of done exercises for University of Helsinki's online course focused on Java Programming. 
+Presentation of done exercises for University of Helsinki's online course focused on Java Programming.  
 More details can be found here: https://java-programming.mooc.fi/
-___
 # Certificates :
 ![certificate-java-programming-i](https://github.com/wronskipatryk/java-programming-exercises/assets/56131806/f7f4af46-2a51-4d71-8353-e3997e71a891)
 ![certificate-java-programming-ii](https://github.com/wronskipatryk/java-programming-exercises/assets/56131806/c569df72-1928-4500-98d6-9d243814ae09)
-___
 # Part I - Key values
 I know some repeating programming problems and solutions to them.
 I'm familiar with the term call stack, and I know how program execution advances when a method is called.
