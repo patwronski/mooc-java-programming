@@ -5,24 +5,6 @@ More details can be found here: https://java-programming.mooc.fi/
 ![certificate-java-programming-ii](https://github.com/wronskipatryk/java-programming-exercises/assets/56131806/c569df72-1928-4500-98d6-9d243814ae09)
 ___
 ![certificate-java-programming-i](https://github.com/wronskipatryk/java-programming-exercises/assets/56131806/f7f4af46-2a51-4d71-8353-e3997e71a891)
-# Part I - Key values
-I know some repeating programming problems and solutions to them.  
-I'm familiar with the term call stack, and I know how program execution advances when a method is called.  
-I know why variables and methods should be named descriptively.  
-I know what object-oriented programming is.  
-I know what overloading means, and I can overload methods and constructors.  
-I know how primitive and reference variables work when used as method parameters.  
-I can define equals() method that is used to compare objects of the same type with each other.  
-I can define a reference-type object variable for a class.  
-I can use an object as a method parameter and as a method's return value.  
-I know how to use lists as instance variables.  
-I can write a program where an object is retrieved from an instance variable list.  
-I know it's a good idea to separate the user interface and the program logic.  
-I can write unit tests.  
-I'm aware what the concept of test-driven development means.  
-I know how selection sort works.  
-I'm able to describe how binary search works.  
-When solving more open-ended programming assignments, I'm thinking what kind of classes and objects would help me with solving the exercise.  
 # Part II - Key values
 I'm able to create a hash map and I can add information to it.  
 I'm able to fetch information from a hash map and I know what happens if the information is not found.  
@@ -52,3 +34,22 @@ I can create a data structure that resembles ArrayList.
 I can create a data structure that resembles HashMap.  
 I can generate random numbers by using existing Java libraries.  
 I can create and use multi-dimensional arrays.  
+# Part I - Key values
+I know some repeating programming problems and solutions to them.  
+I'm familiar with the term call stack, and I know how program execution advances when a method is called.  
+I know why variables and methods should be named descriptively.  
+I know what object-oriented programming is.  
+I know what overloading means, and I can overload methods and constructors.  
+I know how primitive and reference variables work when used as method parameters.  
+I can define equals() method that is used to compare objects of the same type with each other.  
+I can define a reference-type object variable for a class.  
+I can use an object as a method parameter and as a method's return value.  
+I know how to use lists as instance variables.  
+I can write a program where an object is retrieved from an instance variable list.  
+I know it's a good idea to separate the user interface and the program logic.  
+I can write unit tests.  
+I'm aware what the concept of test-driven development means.  
+I know how selection sort works.  
+I'm able to describe how binary search works.  
+When solving more open-ended programming assignments, I'm thinking what kind of classes and objects would help me with solving the exercise.  
+
