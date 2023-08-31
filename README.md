@@ -2,8 +2,9 @@
 Presentation of done exercises for University of Helsinki's online course focused on Java Programming.  
 More details can be found here: https://java-programming.mooc.fi/
 # Certificates :
-![certificate-java-programming-i](https://github.com/wronskipatryk/java-programming-exercises/assets/56131806/f7f4af46-2a51-4d71-8353-e3997e71a891)
 ![certificate-java-programming-ii](https://github.com/wronskipatryk/java-programming-exercises/assets/56131806/c569df72-1928-4500-98d6-9d243814ae09)
+___
+![certificate-java-programming-i](https://github.com/wronskipatryk/java-programming-exercises/assets/56131806/f7f4af46-2a51-4d71-8353-e3997e71a891)
 # Part I - Key values
 I know some repeating programming problems and solutions to them.  
 I'm familiar with the term call stack, and I know how program execution advances when a method is called.  
@@ -23,30 +24,25 @@ I know how selection sort works.
 I'm able to describe how binary search works.  
 When solving more open-ended programming assignments, I'm thinking what kind of classes and objects would help me with solving the exercise.  
 # Part II - Key values
-I know what is a hash map and what it is used for.  
 I'm able to create a hash map and I can add information to it.  
 I'm able to fetch information from a hash map and I know what happens if the information is not found.  
-I'm able to use Hash Maps as instance variables.  
 I know what methods equals and hashCode are used for.  
-I'm able to use a list a list as an value in a Hash Map.  
+I'm able to use a list as an value in a Hash Map.  
 I know what is a superclass and what is a subclass.  
 I am able to create a class that inherits from a different class.  
 I know how to call methods and the constructor from a superclass.  
 I know what the concept interface means.  
-I am able to create a class that implement a interface.
-I am able to create my own interfaces.
-I am able to represent all all objects with at least two different types.
-I know what the concept stream means.  
+I am able to create a class that implement a interface.  
+I am able to create my own interfaces.  
+I am able to represent all objects with at least two different types.  
 I'm able to process data using streams.  
 I'm able to use Java's built-in Comparable interface.  
 I'm able to sort a list of objects using Java's built-in tools.  
 I'm able to use enumerated types.  
 I'm able to write regular expressions.  
 I know cases where using an iterator is beneficial.  
-I know what class diagrams are and I'm able to draw class diagrams that contains a couple of classes.
+I know what class diagrams are and I'm able to draw class diagrams that contains a couple of classes.  
 I'm able to create classes from a given class diagram.  
-I know how to place classes into packages.  
-I know how and why the import command is used in java.  
 I know how to catch exceptions in my programs.  
 I know some exceptions that don't need catching.  
 I can write a program that writes text to a file.  
